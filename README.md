@@ -13,6 +13,26 @@ Eliminar estudiante: elimina un registro de la base de datos, verificando depend
 
 Consultar promedio: calcula el promedio de las notas de un estudiante y muestra en qué materia tuvo mejor rendimiento, identificándolo por nombre e identificación.
 
+
+La bonificacion, Que haria si solo tuviera 10 lineas de codigo para cambiar el mundo:
+
+import java.util.*;
+public class CambiarElMundo {
+  public static void main(String[] a) {
+    String[] m={"Empatía","Educación","Justicia","Naturaleza","Paz","Amor","Igualdad","Libertad","Esperanza","Solidaridad"};
+    Scanner sc=new Scanner(System.in);
+    System.out.print("Elige un número (1-10): ");
+    int n=sc.nextInt();
+    System.out.println("Activando: "+m[n-1]+"...");
+    System.out.println("+m[n-1]+" ha sido sembrada en el mundo.");
+  }
+}
+
+Explixaciòn:El programa “CambiarElMundo” te deja elegir un número del 1 al 10, y cada número representa un valor positivo como empatía, justicia o amor.
+Cuando eliges uno, el sistema “activa” ese valor y te dice que fue sembrado en el mundo.
+En resumen, simboliza que cada elección positiva puede generar un cambio real.
+
+
 Autor
 
 Alejandro García
