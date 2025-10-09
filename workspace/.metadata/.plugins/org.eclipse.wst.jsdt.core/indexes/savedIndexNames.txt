@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/semillero/proyecto-colegio-quipux/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1763111644.index
+586412171.index
+3346866722.index
+4209600774.index
+3181744391.index
+2715354305.index
