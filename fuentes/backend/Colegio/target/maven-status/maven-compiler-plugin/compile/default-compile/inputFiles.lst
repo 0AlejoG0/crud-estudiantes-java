@@ -1,0 +1,8 @@
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/co/com/bd/BaseDatos.java
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/co/com/manager/MateriasManager.java
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/co/com/model/Estudiante.java
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/co/com/model/Materia.java
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/co/com/model/MateriaInput.java
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/co/com/ws/rest/WsColegio.java
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/launch/CORSFilter.java
+/home/semillero/proyecto-colegio-quipux/fuentes/backend/Colegio/src/main/java/launch/Main.java
